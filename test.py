@@ -12,3 +12,6 @@ def mulTwo(a,b):
 
 def awesome():
     print("This is an awesome func")
+    
+def sannan():
+    print("sannan")
