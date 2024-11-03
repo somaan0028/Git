@@ -8,3 +8,7 @@ def divTwo(a, b):
     return a / b
 def mulTwo(a,b):
     return a*b
+
+
+def awesome():
+    print("This is an awesome func")
